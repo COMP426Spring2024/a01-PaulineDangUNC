@@ -1,0 +1,99 @@
+body
+{
+	background-image: url( https://img.freepik.com/free-photo/wooden-floor-background_53876-88628.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1707264000&semt=ais );
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#container
+{
+    margin: auto;
+    padding: 10px;
+}
+
+
+.headerText
+{
+    margin: 5px;
+    border: 10px;
+    border-style: double;
+    border-color: black;
+	color: black;
+	text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+	font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#caption
+{
+	margin: 5px;
+	color: black;
+	text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+	font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.mythHeader {
+    margin: 15px;
+    font-size: 20x;
+	color: black;
+	text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+	
+}
+
+.mythText{
+    margin: 10px;
+	color: black;
+	text-align: Center;
+    font-family: Copperplate, Papyrus, fantasy;
+	font-size: 16x;
+}
+
+#pri 
+{
+    width: 30%;
+    height: 20%;
+    float: left;
+    margin-left: 6px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 4%;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+#titan
+{
+    width: 30%;
+    height: 20%;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 4%;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+#gods
+{
+    width: 30%;
+    height: 20%;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+
+
